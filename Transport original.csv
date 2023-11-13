@@ -1,0 +1,1001 @@
+User Name,Mode of Transport,Distance Traveled (In Miles),Frequency(Per Week),Start Location,End Location,Fuel Type,Fuel Efficiency
+Kim Smith,Car,25,5,Sunnyvale,San Francisco,gasoline,21
+Tim Nova,Car,22,4,San Jose,Stanford,electric,28
+Leslie Kleina,Bike,18,4,San Carlos,Sunnyvale,electric,22
+Mary Jane,Car,19,4,Palo Alto,San Francisco,gasoline,24
+John Doe,Car,10,5,Mountain View,Santa Clara,electric,20
+Nick Jones,Car,9,2,Santa Clara,Milpitas,electric,27
+Daniel Smith,Car,9,3,Santa Clara,Milpitas,electric,24
+John Jacob,Car,13,4,Redwood City,Los Altos,gasoline,27
+Sara Rebecca,Car,8,5,Redwood City,Palo Alto,gasoline,23
+George Edward,Car,12,4,Mountain View,Milpitas,electric,29
+Peter Parker,Bike,5,1,Sunnyvale,Santa Clara,electric,20
+Robert Downey,Car,25,2,Sunnyvale,San Francisco,gasoline,21
+Eligibeth Tylor,Car,15,4,Milpitas,Palo Alto,gasoline,23
+Kai Le,Car,25,3,Sunnyvale,San Francisco,gasoline,21
+Robert Patel,Car,23,1,San Jose,Union City,gasoline,22
+Cameron Lo,Car,18,3,San Carlos,Sunnyvale,gasoline,23
+Harper Castillo,Car,14,2,Palo Alto,Santa Clara,electric,30
+Harper Dominguez,Car,16,2,Redwood City,San Francisco,gasoline,23
+Ezra Vu,Bike,8,3,Redwood City,Palo Alto,gasoline,26
+Jade Hu,Car,13,3,Redwood City,Los Altos,electric,23
+Miles Chang,Car,24,3,Livermore,Milpitas,electric,26
+Gianna Holmes,Bike,14,5,Palo Alto,Santa Clara,gasoline,26
+Jameson Thomas,Car,23,5,San Jose,Union City,electric,28
+Jameson Pena,Bike,23,1,San Jose,Union City,gasoline,24
+Bella Wu,Car,15,1,Milpitas,Palo Alto,gasoline,21
+Jose Wong,Bike,21,2,Campbell,Palo Alto,gasoline,26
+Lucas Richardson,Car,13,5,Redwood City,Los Altos,gasoline,21
+Jacob Moore,Bike,23,5,San Jose,Union City,electric,25
+Luna Lu,Bike,23,1,San Jose,Union City,gasoline,25
+Bella Tran,Car,13,5,Redwood City,Los Altos,electric,24
+Ivy Chau,Bike,19,4,Palo Alto,San Francisco,gasoline,23
+Jordan Kumar,Car,24,2,Livermore,Milpitas,electric,28
+Sophia Gutierrez,Car,19,1,Palo Alto,San Francisco,electric,27
+Eli Dang,Car,14,3,Palo Alto,Santa Clara,gasoline,23
+Lillian Lewis,Car,7,3,Santa Clara,San Jose,gasoline,24
+Serenity Cao,Car,20,1,Campbell,Fremont,electric,28
+Parker Lai,Car,9,4,Santa Clara,Milpitas,gasoline,30
+Charles Simmons,Car,18,1,San Carlos,Sunnyvale,electric,25
+Jayden Luu,Car,16,2,Redwood City,San Francisco,electric,24
+Brooks Richardson,Car,7,5,Santa Clara,San Jose,electric,27
+Ivy Thompson,Car,18,5,San Carlos,Sunnyvale,electric,27
+Peyton Wright,Bike,17,5,Mountain House,Livermore,gasoline,26
+Wyatt Dinh,Car,5,1,Sunnyvale,Santa Clara,gasoline,30
+Ruby Alexander,Bike,20,4,Campbell,Fremont,electric,30
+Axel Oh,Bike,8,4,Redwood City,Palo Alto,electric,27
+Axel Ramirez,Car,22,1,San Jose,Stanford,gasoline,27
+Liliana Chang,Car,16,4,Redwood City,San Francisco,gasoline,23
+Leonardo Carter,Car,21,2,Campbell,Palo Alto,electric,30
+Landon Gonzales,Car,22,1,San Jose,Stanford,electric,29
+Amelia Dominguez,Car,21,1,Campbell,Palo Alto,gasoline,20
+Silas Ross,Car,14,3,Palo Alto,Santa Clara,gasoline,23
+Jeremiah Cheng,Car,13,4,Redwood City,Los Altos,gasoline,21
+Chloe Chin,Car,8,2,Redwood City,Palo Alto,gasoline,26
+Ella Martinez,Bike,23,3,San Jose,Union City,electric,30
+Gianna Jones,Bike,9,1,Santa Clara,Milpitas,gasoline,24
+Austin Chow,Bike,23,2,San Jose,Union City,gasoline,23
+Ella Chen,Bike,16,1,Redwood City,San Francisco,electric,23
+Ruby Kaur,Car,6,1,Mountain View,Sunnyvale,electric,20
+Savannah Morales,Bike,19,1,Palo Alto,San Francisco,electric,23
+Luca Powell,Car,11,3,San Carlos,Palo Alto,electric,27
+Parker Thao,Car,23,1,San Jose,Union City,gasoline,22
+Ryan Vo,Bike,6,5,Mountain View,Sunnyvale,electric,30
+Isabella Ngo,Bike,15,5,Milpitas,Palo Alto,gasoline,30
+Leah Vega,Car,9,3,Santa Clara,Milpitas,electric,23
+Jaxson Liu,Car,8,5,Redwood City,Palo Alto,gasoline,25
+Santiago f Ross,Car,9,3,Santa Clara,Milpitas,electric,25
+Layla Bell,Car,21,3,Campbell,Palo Alto,electric,28
+Bella Morales,Car,23,4,San Jose,Union City,electric,24
+Eliza Kang,Car,8,3,Redwood City,Palo Alto,gasoline,29
+Gabriel Reyes,Car,6,3,Mountain View,Sunnyvale,gasoline,30
+Piper Garcia,Bike,9,2,Santa Clara,Milpitas,electric,27
+Jacob Cheng,Car,25,1,Sunnyvale,San Francisco,electric,30
+Nathan Hong,Bike,19,2,Palo Alto,San Francisco,gasoline,27
+Chloe Kim,Car,12,5,Mountain View,Milpitas,electric,29
+Isaac Guzman,Car,7,3,Santa Clara,San Jose,electric,27
+Julian Ford,Car,23,3,San Jose,Union City,electric,26
+Kinsley Liang,Bike,13,4,Redwood City,Los Altos,gasoline,26
+Wesley Yu,Car,7,1,Santa Clara,San Jose,electric,29
+Serenity Martin,Car,20,2,Campbell,Fremont,gasoline,20
+Ethan Sanchez,Bike,17,4,Mountain House,Livermore,gasoline,24
+David Sanchez,Bike,15,4,Milpitas,Palo Alto,gasoline,26
+Elias Hsu,Car,11,4,San Carlos,Palo Alto,electric,22
+Luca Phan,Car,15,1,Milpitas,Palo Alto,electric,25
+Olivia Xi,Car,14,4,Palo Alto,Santa Clara,gasoline,28
+Alice Luu,Car,20,5,Campbell,Fremont,electric,26
+Leonardo Ng,Bike,18,2,San Carlos,Sunnyvale,electric,30
+Peyton Edwards,Car,25,5,Sunnyvale,San Francisco,gasoline,29
+Axel Patel,Bike,32,2,Livermore,Santa Clara,gasoline,23
+Eva Chavez,Car,7,5,Santa Clara,San Jose,electric,23
+Savannah Lee,Bike,22,4,San Jose,Stanford,electric,22
+Mia Grant,Bike,16,2,Redwood City,San Francisco,gasoline,28
+Eli Richardson,Bike,23,1,San Jose,Union City,gasoline,27
+Eloise Perry,Bike,18,3,San Carlos,Sunnyvale,gasoline,22
+Ian Cheng,Car,8,2,Redwood City,Palo Alto,electric,27
+Penelope Chan,Car,32,2,Livermore,Santa Clara,electric,29
+Sofia Vasquez,Car,6,4,Mountain View,Sunnyvale,electric,24
+Anthony Baker,Car,15,1,Milpitas,Palo Alto,gasoline,28
+Lucas Luong,Bike,15,3,Milpitas,Palo Alto,gasoline,27
+Xavier Patel,Car,23,4,San Jose,Union City,gasoline,26
+Robert Soto,Car,15,1,Milpitas,Palo Alto,gasoline,27
+Nevaeh Jiang,Car,10,4,Mountain View,Santa Clara,electric,25
+Chloe Reyes,Bike,14,3,Palo Alto,Santa Clara,electric,30
+Lucy Edwards,Car,20,5,Campbell,Fremont,electric,24
+Luna Edwards,Car,20,4,Campbell,Fremont,gasoline,24
+Stella Daniels,Car,6,4,Mountain View,Sunnyvale,gasoline,28
+Ayla Ma,Car,8,4,Redwood City,Palo Alto,gasoline,25
+Matthew Avila,Car,12,1,Mountain View,Milpitas,gasoline,23
+Gianna Lim,Bike,18,3,San Carlos,Sunnyvale,electric,26
+Joseph Tan,Car,20,1,Campbell,Fremont,gasoline,24
+Connor Lai,Car,22,4,San Jose,Stanford,gasoline,29
+Ava Owens,Car,20,3,Campbell,Fremont,gasoline,24
+Dylan Aguilar,Car,11,1,San Carlos,Palo Alto,gasoline,23
+Leah Zheng,Car,5,1,Sunnyvale,Santa Clara,electric,21
+Jade Pham,Car,7,1,Santa Clara,San Jose,electric,22
+Theodore Bui,Car,25,2,Sunnyvale,San Francisco,electric,27
+Asher Chan,Car,21,5,Campbell,Palo Alto,electric,26
+Ezekiel Brown,Car,14,3,Palo Alto,Santa Clara,electric,24
+Peyton Allen,Bike,21,2,Campbell,Palo Alto,gasoline,27
+Parker Joseph,Bike,7,1,Santa Clara,San Jose,electric,20
+Kayden Ortiz,Car,19,2,Palo Alto,San Francisco,gasoline,20
+Lillian Desai,Car,18,5,San Carlos,Sunnyvale,gasoline,20
+Avery Gutierrez,Car,17,4,Mountain House,Livermore,electric,20
+Caroline Sandoval,Bike,16,3,Redwood City,San Francisco,electric,20
+Hailey Lim,Bike,40,1,Mountain House,Milpitas,electric,29
+Roman Liang,Car,20,1,Campbell,Fremont,electric,30
+Elias Rojas,Bike,22,5,San Jose,Stanford,electric,26
+Quinn Lai,Car,14,4,Palo Alto,Santa Clara,gasoline,21
+Clara Le,Car,17,4,Mountain House,Livermore,electric,23
+Chloe Yoon,Car,24,3,Livermore,Milpitas,gasoline,22
+Abigail Simmons,Car,16,5,Redwood City,San Francisco,electric,30
+Ayla Espinoza,Car,14,3,Palo Alto,Santa Clara,gasoline,24
+Nova Lin,Car,12,3,Mountain View,Milpitas,electric,27
+Sadie Singh,Bike,19,3,Palo Alto,San Francisco,electric,22
+Aaron Powell,Car,23,3,San Jose,Union City,gasoline,23
+Jameson Vargas,Car,12,3,Mountain View,Milpitas,gasoline,29
+Logan Young,Car,18,3,San Carlos,Sunnyvale,electric,23
+Wyatt Cheung,Car,10,5,Mountain View,Santa Clara,electric,24
+Lucas Zhu,Car,1,2,Milpitas,Milpitas,gasoline,20
+Emily Hong,Car,14,4,Palo Alto,Santa Clara,electric,25
+Luke Ramos,Car,6,1,Mountain View,Sunnyvale,electric,27
+Maya Gupta,Bike,40,1,Mountain House,Milpitas,electric,20
+Eliana Ha,Bike,15,4,Milpitas,Palo Alto,electric,26
+Lillian Cheng,Bike,23,1,San Jose,Union City,electric,30
+Alexander Pena,Bike,11,1,San Carlos,Palo Alto,electric,21
+Leonardo Mai,Car,19,1,Palo Alto,San Francisco,gasoline,22
+Jack Phillips,Car,13,2,Redwood City,Los Altos,gasoline,25
+Scarlett Delgado,Car,24,2,Livermore,Milpitas,gasoline,22
+Jack Rogers,Car,25,1,Sunnyvale,San Francisco,gasoline,27
+Violet Huynh,Car,21,2,Campbell,Palo Alto,electric,30
+Victoria Park,Car,10,5,Mountain View,Santa Clara,gasoline,21
+Elizabeth Rodriguez,Bike,5,2,Sunnyvale,Santa Clara,electric,28
+Samuel Kumar,Bike,9,4,Santa Clara,Milpitas,electric,22
+Zoe Maldonado,Car,1,5,Milpitas,Milpitas,gasoline,24
+Natalia Richardson,Car,12,3,Mountain View,Milpitas,electric,20
+Madeline Contreras,Car,14,1,Palo Alto,Santa Clara,electric,27
+Raelynn Espinoza,Bike,12,3,Mountain View,Milpitas,electric,24
+Noah Rojas,Bike,5,3,Sunnyvale,Santa Clara,gasoline,27
+Jack Ramos,Bike,3,1,Santa Clara,Santa Clara,gasoline,23
+Riley King,Bike,8,2,Redwood City,Palo Alto,electric,29
+Naomi Lee,Car,25,2,Sunnyvale,San Francisco,electric,20
+Caleb Jones,Car,9,4,Santa Clara,Milpitas,gasoline,21
+Peyton Alvarado,Car,18,4,San Carlos,Sunnyvale,gasoline,23
+Luca Liu,Car,21,5,Campbell,Palo Alto,gasoline,21
+Christian Johnson,Car,8,3,Redwood City,Palo Alto,gasoline,22
+Kinsley Gonzales,Car,2,3,North San Jose,Milpitas,gasoline,23
+Hunter Yoon,Car,1,1,Milpitas,Milpitas,electric,30
+Elias Dixon,Car,23,1,San Jose,Union City,gasoline,23
+Owen Guerrero,Car,18,5,San Carlos,Sunnyvale,gasoline,26
+Lucas Lo,Car,25,3,Sunnyvale,San Francisco,electric,23
+Hunter Mitchell,Car,6,5,Mountain View,Sunnyvale,electric,26
+Eliana Bailey,Bike,23,3,San Jose,Union City,gasoline,26
+Gabriella Choi,Car,11,1,San Carlos,Palo Alto,electric,28
+Evelyn Alvarado,Car,12,4,Mountain View,Milpitas,gasoline,24
+Wyatt Chan,Bike,2,1,North San Jose,Milpitas,gasoline,21
+Sarah Johnson,Bike,6,4,Mountain View,Sunnyvale,gasoline,26
+Brooks Evans,Car,11,2,San Carlos,Palo Alto,gasoline,21
+Isaiah Dixon,Car,6,5,Mountain View,Sunnyvale,electric,25
+Addison Lo,Bike,23,1,San Jose,Union City,gasoline,25
+Nolan Howard,Car,17,4,Mountain House,Livermore,electric,24
+Paisley Dominguez,Car,14,5,Palo Alto,Santa Clara,gasoline,23
+Eliana Ho,Car,21,5,Campbell,Palo Alto,electric,28
+Charles Miller,Car,21,2,Campbell,Palo Alto,electric,27
+Mia Jiang,Car,13,4,Redwood City,Los Altos,gasoline,23
+Skylar Parker,Car,14,3,Palo Alto,Santa Clara,gasoline,24
+Zoey Leung,Car,12,4,Mountain View,Milpitas,electric,28
+Austin Moua,Bike,6,1,Mountain View,Sunnyvale,gasoline,30
+Christopher Robinson,Car,19,1,Palo Alto,San Francisco,electric,25
+Jayden Zhang,Car,22,5,San Jose,Stanford,electric,24
+Cora Mejia,Car,3,4,Santa Clara,Santa Clara,electric,27
+Julian Harris,Bike,13,3,Redwood City,Los Altos,electric,27
+Anthony Espinoza,Car,1,4,Milpitas,Milpitas,gasoline,26
+Aubrey Ruiz,Car,2,1,North San Jose,Milpitas,gasoline,30
+Piper Tang,Car,6,1,Mountain View,Sunnyvale,electric,30
+Colton Delgado,Car,17,1,Mountain House,Livermore,electric,27
+Madeline Chung,Bike,23,3,San Jose,Union City,gasoline,27
+Ariana Sharma,Car,16,4,Redwood City,San Francisco,gasoline,23
+Julian Marquez,Bike,16,3,Redwood City,San Francisco,electric,30
+Logan Reyes,Car,16,5,Redwood City,San Francisco,electric,29
+Penelope Mai,Car,15,3,Milpitas,Palo Alto,gasoline,20
+Ryan Reed,Bike,15,4,Milpitas,Palo Alto,gasoline,23
+Grayson Hwang,Bike,8,5,Redwood City,Palo Alto,gasoline,21
+Ezra Tan,Car,17,4,Mountain House,Livermore,gasoline,26
+David Ha,Car,8,2,Redwood City,Palo Alto,electric,30
+Lillian Vang,Car,1,3,Milpitas,Milpitas,gasoline,24
+Sofia Zhang,Car,1,1,Milpitas,Milpitas,gasoline,23
+Athena Daniels,Bike,23,1,San Jose,Union City,electric,23
+Jameson Shin,Car,4,1,San Jose,San Jose,electric,20
+Everly Avila,Car,12,5,Mountain View,Milpitas,electric,23
+Liam Nelson,Bike,13,2,Redwood City,Los Altos,electric,27
+Theodore Lai,Car,23,3,San Jose,Union City,gasoline,22
+Caroline Do,Car,4,3,San Jose,San Jose,electric,30
+Josiah Ramos,Car,25,3,Sunnyvale,San Francisco,gasoline,30
+Colton Alexander,Car,17,4,Mountain House,Livermore,electric,23
+Charles Ramos,Car,11,3,San Carlos,Palo Alto,gasoline,25
+Ellie Wilson,Car,10,5,Mountain View,Santa Clara,electric,25
+Peyton Powell,Car,9,3,Santa Clara,Milpitas,electric,28
+Hailey Rojas,Car,15,3,Milpitas,Palo Alto,electric,24
+Kai Singh,Car,25,5,Sunnyvale,San Francisco,gasoline,29
+Ryan Rivera,Car,6,5,Mountain View,Sunnyvale,gasoline,30
+Everett Lu,Car,18,2,San Carlos,Sunnyvale,electric,27
+Layla Nunez,Car,21,4,Campbell,Palo Alto,electric,30
+Liliana Collins,Car,23,1,San Jose,Union City,gasoline,27
+Ezekiel Jenkins,Bike,24,5,Livermore,Milpitas,electric,29
+Christopher Wang,Car,24,5,Livermore,Milpitas,electric,27
+Savannah Rodriguez,Car,9,2,Santa Clara,Milpitas,electric,26
+Lyla Turner,Car,6,4,Mountain View,Sunnyvale,gasoline,26
+Adrian Ngo,Car,14,1,Palo Alto,Santa Clara,electric,29
+Aria Juarez,Car,18,3,San Carlos,Sunnyvale,gasoline,20
+Audrey Ramos,Car,7,5,Santa Clara,San Jose,gasoline,24
+Hazel Cho,Bike,7,4,Santa Clara,San Jose,gasoline,26
+Iris Chung,Car,18,2,San Carlos,Sunnyvale,electric,22
+Thomas Rodriguez,Bike,18,1,San Carlos,Sunnyvale,electric,25
+Avery Lo,Car,21,2,Campbell,Palo Alto,gasoline,28
+Gabriel Bell,Car,18,5,San Carlos,Sunnyvale,electric,26
+Gianna Walker,Car,3,4,Santa Clara,Santa Clara,electric,30
+Axel Bailey,Bike,6,4,Mountain View,Sunnyvale,gasoline,29
+Scarlett Green,Bike,1,1,Milpitas,Milpitas,gasoline,23
+Jackson Wong,Bike,5,1,Sunnyvale,Santa Clara,electric,23
+Eva Jimenez,Car,12,2,Mountain View,Milpitas,electric,22
+Ian Ma,Car,9,1,Santa Clara,Milpitas,gasoline,28
+Luna Castro,Car,1,1,Milpitas,Milpitas,gasoline,27
+Nolan Brooks,Car,11,3,San Carlos,Palo Alto,gasoline,22
+Jayden Jones,Car,24,1,Livermore,Milpitas,electric,27
+Asher Hsu,Car,23,2,San Jose,Union City,electric,29
+Greyson Lim,Car,20,2,Campbell,Fremont,electric,24
+Chloe Miller,Car,20,1,Campbell,Fremont,gasoline,28
+Jaxson Brooks,Bike,23,3,San Jose,Union City,gasoline,27
+Jack Perez,Bike,5,3,Sunnyvale,Santa Clara,gasoline,26
+Ruby Reed,Car,14,2,Palo Alto,Santa Clara,gasoline,27
+Ivy Rojas,Car,8,5,Redwood City,Palo Alto,electric,25
+Hudson Wong,Car,10,4,Mountain View,Santa Clara,electric,30
+Ryan Yi,Car,9,5,Santa Clara,Milpitas,electric,24
+Carter Simmons,Car,3,5,Santa Clara,Santa Clara,gasoline,24
+Emilia Xu,Car,17,1,Mountain House,Livermore,gasoline,28
+Adam Medina,Car,3,4,Santa Clara,Santa Clara,gasoline,25
+Connor Howard,Car,7,3,Santa Clara,San Jose,gasoline,23
+Audrey Duong,Car,11,1,San Carlos,Palo Alto,electric,26
+Landon Reyes,Bike,9,1,Santa Clara,Milpitas,gasoline,24
+Noah Ma,Car,18,1,San Carlos,Sunnyvale,gasoline,29
+Lucas Alexander,Car,15,2,Milpitas,Palo Alto,gasoline,24
+Henry Vo,Car,17,4,Mountain House,Livermore,gasoline,23
+Mila Han,Car,6,2,Mountain View,Sunnyvale,electric,21
+Genesis Herrera,Car,7,3,Santa Clara,San Jose,electric,22
+Olivia Vazquez,Bike,25,2,Sunnyvale,San Francisco,electric,27
+Leilani Ng,Car,1,3,Milpitas,Milpitas,electric,26
+Olivia Mendoza,Car,5,4,Sunnyvale,Santa Clara,electric,24
+Skylar Xu,Car,15,4,Milpitas,Palo Alto,gasoline,27
+Eloise Williams,Car,24,2,Livermore,Milpitas,electric,20
+Jackson Maldonado,Car,15,2,Milpitas,Palo Alto,gasoline,20
+Christian Harris,Car,21,3,Campbell,Palo Alto,gasoline,20
+Penelope Santos,Car,10,3,Mountain View,Santa Clara,electric,20
+Nicholas Zhou,Car,15,1,Milpitas,Palo Alto,electric,20
+Ayla Garza,Car,24,4,Livermore,Milpitas,electric,29
+Carson Mai,Car,6,1,Mountain View,Sunnyvale,electric,30
+Luna Lu,Car,11,5,San Carlos,Palo Alto,electric,26
+Anthony Ho,Car,21,2,Campbell,Palo Alto,gasoline,21
+Clara Lopez,Bike,19,4,Palo Alto,San Francisco,electric,23
+Melody Woods,Car,8,5,Redwood City,Palo Alto,gasoline,22
+Matthew Simmons,Car,12,2,Mountain View,Milpitas,electric,30
+Gabriella Carrillo,Car,8,4,Redwood City,Palo Alto,gasoline,24
+Lydia Juarez,Bike,10,2,Mountain View,Santa Clara,electric,27
+Ava Carrillo,Car,10,5,Mountain View,Santa Clara,electric,22
+Elena Sharma,Car,23,3,San Jose,Union City,gasoline,23
+Julia Ahmed,Car,6,2,Mountain View,Sunnyvale,gasoline,29
+Iris Vo,Bike,24,2,Livermore,Milpitas,electric,23
+Hunter Yi,Bike,17,2,Mountain House,Livermore,electric,24
+Valentina Oh,Car,18,1,San Carlos,Sunnyvale,gasoline,20
+Kinsley Tran,Car,13,2,Redwood City,Los Altos,electric,25
+Christian Hong,Car,3,3,Santa Clara,Santa Clara,electric,27
+Amelia Mehta,Car,10,3,Mountain View,Santa Clara,electric,20
+Axel Leung,Bike,22,1,San Jose,Stanford,electric,26
+Lucas Lam,Car,19,1,Palo Alto,San Francisco,electric,30
+Jose Thompson,Car,24,1,Livermore,Milpitas,electric,21
+Wesley Duong,Car,8,5,Redwood City,Palo Alto,gasoline,22
+Adeline Maldonado,Car,15,1,Milpitas,Palo Alto,gasoline,25
+Elias Diaz,Bike,24,4,Livermore,Milpitas,gasoline,22
+Wyatt Aguilar,Car,7,1,Santa Clara,San Jose,gasoline,27
+Josephine Espinoza,Car,21,4,Campbell,Palo Alto,electric,30
+Adeline Lai,Bike,10,2,Mountain View,Santa Clara,gasoline,21
+Christopher Vu,Car,2,3,North San Jose,Milpitas,electric,28
+Kai Vega,Car,17,4,Mountain House,Livermore,electric,22
+Hailey Chin,Car,19,3,Palo Alto,San Francisco,gasoline,24
+Eleanor Xi,Car,6,4,Mountain View,Sunnyvale,electric,20
+Lily Molina,Car,22,2,San Jose,Stanford,electric,27
+Levi Vasquez,Car,19,5,Palo Alto,San Francisco,electric,24
+Elijah Washington,Car,16,5,Redwood City,San Francisco,gasoline,27
+Gianna Park,Car,21,3,Campbell,Palo Alto,gasoline,23
+Melody Leung,Car,20,4,Campbell,Fremont,electric,29
+Liliana Valdez,Car,20,2,Campbell,Fremont,electric,20
+Ezekiel Kumar,Car,4,5,San Jose,San Jose,gasoline,21
+Ruby Rahman,Bike,20,3,Campbell,Fremont,gasoline,23
+Natalie Stewart,Car,25,2,Sunnyvale,San Francisco,gasoline,21
+Charlotte Lim,Bike,5,3,Sunnyvale,Santa Clara,gasoline,22
+Elena Campos,Car,10,3,Mountain View,Santa Clara,gasoline,23
+Vivian Lim,Bike,3,5,Santa Clara,Santa Clara,electric,30
+Madison Xu,Car,24,4,Livermore,Milpitas,gasoline,23
+Ava Aguilar,Car,21,4,Campbell,Palo Alto,gasoline,26
+Kayden Patel,Car,19,3,Palo Alto,San Francisco,electric,23
+Penelope Desai,Car,9,4,Santa Clara,Milpitas,electric,26
+Henry Vang,Car,1,3,Milpitas,Milpitas,gasoline,26
+Eliana Turner,Car,21,2,Campbell,Palo Alto,electric,28
+Charlotte Tran,Car,21,1,Campbell,Palo Alto,gasoline,24
+Everly Coleman,Bike,16,5,Redwood City,San Francisco,gasoline,21
+Matthew Harris,Bike,20,2,Campbell,Fremont,gasoline,26
+Emilia Barnes,Car,6,5,Mountain View,Sunnyvale,gasoline,21
+Sophie Griffin,Bike,20,1,Campbell,Fremont,electric,25
+Kai Phillips,Car,7,4,Santa Clara,San Jose,gasoline,25
+Dylan Khan,Car,11,2,San Carlos,Palo Alto,electric,24
+Nevaeh Clark,Car,4,2,San Jose,San Jose,gasoline,23
+Carter Luu,Car,18,1,San Carlos,Sunnyvale,electric,28
+Jordan Ngo,Car,7,5,Santa Clara,San Jose,electric,27
+Jackson Hu,Car,17,4,Mountain House,Livermore,gasoline,23
+Madelyn Kang,Car,5,4,Sunnyvale,Santa Clara,gasoline,24
+Everleigh Bell,Car,9,1,Santa Clara,Milpitas,electric,28
+Eliana Trinh,Car,20,1,Campbell,Fremont,gasoline,30
+Oliver Ford,Car,2,3,North San Jose,Milpitas,electric,25
+Ryan Huang,Car,16,4,Redwood City,San Francisco,electric,24
+Gabriel Ahmed,Car,9,1,Santa Clara,Milpitas,electric,27
+Ivy Rios,Car,23,5,San Jose,Union City,electric,27
+Luca Hunter,Car,7,3,Santa Clara,San Jose,gasoline,26
+Claire Owens,Car,3,2,Santa Clara,Santa Clara,gasoline,30
+Aubrey Maldonado,Car,11,1,San Carlos,Palo Alto,electric,30
+Elias Vasquez,Bike,1,3,Milpitas,Milpitas,electric,27
+Melody Luu,Bike,11,5,San Carlos,Palo Alto,gasoline,27
+Christopher Luu,Bike,11,4,San Carlos,Palo Alto,gasoline,23
+James Han,Car,18,3,San Carlos,Sunnyvale,electric,30
+Jaxson Ayala,Car,23,1,San Jose,Union City,electric,29
+Levi James,Car,24,3,Livermore,Milpitas,gasoline,20
+Grayson Carrillo,Car,22,1,San Jose,Stanford,gasoline,23
+Maverick Hwang,Bike,11,4,San Carlos,Palo Alto,gasoline,21
+Noah Truong,Car,3,4,Santa Clara,Santa Clara,gasoline,26
+Willow Guzman,Bike,10,3,Mountain View,Santa Clara,electric,30
+Rylee Howard,Bike,15,5,Milpitas,Palo Alto,gasoline,24
+Ian Marquez,Car,10,5,Mountain View,Santa Clara,gasoline,23
+Layla Owens,Bike,14,2,Palo Alto,Santa Clara,electric,23
+Chloe Dixon,Bike,14,4,Palo Alto,Santa Clara,electric,20
+Emily Zheng,Bike,22,4,San Jose,Stanford,electric,23
+Jayden Rogers,Car,25,5,Sunnyvale,San Francisco,electric,27
+Elizabeth Vasquez,Car,15,2,Milpitas,Palo Alto,gasoline,22
+Samantha Ford,Car,7,1,Santa Clara,San Jose,electric,30
+Thomas Silva,Car,22,5,San Jose,Stanford,gasoline,30
+Charlotte Park,Car,22,3,San Jose,Stanford,electric,23
+Liam Jimenez,Bike,23,4,San Jose,Union City,gasoline,25
+Ivy Liu,Car,18,4,San Carlos,Sunnyvale,electric,25
+Jayden Dixon,Car,21,3,Campbell,Palo Alto,electric,28
+Nevaeh Butler,Car,15,2,Milpitas,Palo Alto,electric,24
+Leonardo Li,Bike,17,2,Mountain House,Livermore,gasoline,29
+Kinsley Woods,Car,20,1,Campbell,Fremont,gasoline,30
+Abigail Chu,Car,22,1,San Jose,Stanford,electric,27
+Ava Xiong,Car,16,3,Redwood City,San Francisco,electric,30
+Olivia Marquez,Bike,21,5,Campbell,Palo Alto,gasoline,27
+Claire Vazquez,Car,8,2,Redwood City,Palo Alto,electric,29
+Christian Castro,Car,16,1,Redwood City,San Francisco,electric,27
+Mason Oh,Car,18,5,San Carlos,Sunnyvale,electric,26
+Violet Santiago,Car,8,1,Redwood City,Palo Alto,gasoline,26
+Lily Rios,Car,21,5,Campbell,Palo Alto,electric,29
+Kinsley Stewart,Bike,12,3,Mountain View,Milpitas,gasoline,20
+Aria Molina,Bike,1,2,Milpitas,Milpitas,gasoline,24
+James Cheng,Car,14,2,Palo Alto,Santa Clara,gasoline,26
+Mila Vang,Car,6,5,Mountain View,Sunnyvale,electric,22
+Alice Liu,Car,18,1,San Carlos,Sunnyvale,electric,25
+Delilah Gonzalez,Bike,3,1,Santa Clara,Santa Clara,gasoline,28
+Samuel Tang,Bike,7,3,Santa Clara,San Jose,electric,26
+Serenity Gray,Car,22,1,San Jose,Stanford,electric,30
+Benjamin Estrada,Bike,7,1,Santa Clara,San Jose,gasoline,29
+Wesley Han,Car,9,3,Santa Clara,Milpitas,gasoline,23
+Nora Herrera,Car,7,5,Santa Clara,San Jose,electric,23
+Lincoln Harris,Car,14,4,Palo Alto,Santa Clara,electric,22
+Charles Gonzales,Car,6,5,Mountain View,Sunnyvale,gasoline,28
+Athena Cheng,Car,18,5,San Carlos,Sunnyvale,gasoline,27
+David Garza,Car,6,3,Mountain View,Sunnyvale,gasoline,22
+Hunter Doan,Car,19,1,Palo Alto,San Francisco,electric,27
+Julian Lam,Car,2,3,North San Jose,Milpitas,electric,29
+Sofia Estrada,Car,7,5,Santa Clara,San Jose,electric,24
+Jordan Chen,Bike,2,3,North San Jose,Milpitas,gasoline,28
+Eloise Huang,Car,24,5,Livermore,Milpitas,gasoline,27
+Ivy Mehta,Bike,10,4,Mountain View,Santa Clara,gasoline,26
+Eli Castillo,Bike,3,1,Santa Clara,Santa Clara,gasoline,27
+Nolan Garcia,Car,25,2,Sunnyvale,San Francisco,electric,25
+Alexander Zhu,Bike,1,2,Milpitas,Milpitas,electric,30
+Victoria Wu,Bike,20,2,Campbell,Fremont,electric,24
+Mateo Jordan,Bike,25,5,Sunnyvale,San Francisco,gasoline,24
+Everly Martin,Car,9,5,Santa Clara,Milpitas,gasoline,28
+Athena Castro,Bike,7,2,Santa Clara,San Jose,gasoline,25
+Josephine White,Bike,16,4,Redwood City,San Francisco,gasoline,23
+Nicholas Vo,Bike,20,4,Campbell,Fremont,electric,26
+Jackson Sandoval,Car,10,4,Mountain View,Santa Clara,gasoline,24
+Olivia Turner,Bike,11,2,San Carlos,Palo Alto,gasoline,29
+Cooper Rivera,Bike,16,3,Redwood City,San Francisco,gasoline,24
+Hailey Washington,Car,3,4,Santa Clara,Santa Clara,gasoline,23
+Mia Vasquez,Bike,2,1,North San Jose,Milpitas,electric,21
+Jose Grant,Car,10,1,Mountain View,Santa Clara,electric,22
+Nathan Yee,Bike,7,1,Santa Clara,San Jose,electric,27
+Isabella Munoz,Car,7,2,Santa Clara,San Jose,electric,26
+Michael Turner,Car,23,2,San Jose,Union City,electric,24
+Oliver Jones,Car,11,4,San Carlos,Palo Alto,gasoline,27
+Charles Taylor,Car,20,1,Campbell,Fremont,electric,20
+Gianna Alvarez,Bike,5,3,Sunnyvale,Santa Clara,gasoline,20
+Nova Martin,Bike,16,3,Redwood City,San Francisco,gasoline,20
+Julia Gonzalez,Bike,14,2,Palo Alto,Santa Clara,electric,20
+Athena Vu,Car,14,4,Palo Alto,Santa Clara,electric,20
+Caroline Bui,Bike,5,3,Sunnyvale,Santa Clara,electric,29
+Daniel Ali,Car,22,3,San Jose,Stanford,electric,30
+Iris Huang,Car,15,1,Milpitas,Palo Alto,electric,26
+Natalia Cheng,Car,16,5,Redwood City,San Francisco,gasoline,21
+Owen Evans,Car,22,5,San Jose,Stanford,electric,23
+Angel Dixon,Car,22,4,San Jose,Stanford,gasoline,22
+Aubrey Guerrero,Car,5,5,Sunnyvale,Santa Clara,electric,30
+Ivy Do,Bike,2,5,North San Jose,Milpitas,gasoline,24
+Kai Gutierrez,Bike,17,5,Mountain House,Livermore,electric,27
+Caroline Ahmed,Car,3,5,Santa Clara,Santa Clara,electric,22
+Alice Sharma,Car,3,3,Santa Clara,Santa Clara,gasoline,23
+Leo Simmons,Car,17,2,Mountain House,Livermore,gasoline,29
+Asher Hong,Car,14,5,Palo Alto,Santa Clara,electric,23
+Gianna Ramirez,Car,10,1,Mountain View,Santa Clara,electric,24
+Thomas Smith,Car,6,1,Mountain View,Sunnyvale,gasoline,20
+Carter Hunter,Car,23,4,San Jose,Union City,electric,25
+Charlotte Green,Car,16,3,Redwood City,San Francisco,electric,27
+Lincoln Holmes,Car,17,5,Mountain House,Livermore,electric,20
+Hudson Hu,Car,7,4,Santa Clara,San Jose,electric,26
+Noah Mitchell,Car,1,5,Milpitas,Milpitas,electric,30
+Liliana Choi,Car,6,3,Mountain View,Sunnyvale,electric,21
+Leonardo Cho,Bike,16,1,Redwood City,San Francisco,gasoline,22
+Oliver Delgado,Car,23,3,San Jose,Union City,gasoline,25
+Isabella Roberts,Car,23,2,San Jose,Union City,gasoline,22
+Luca Desai,Car,3,3,Santa Clara,Santa Clara,gasoline,27
+William Juarez,Car,2,1,North San Jose,Milpitas,electric,30
+Ryan Alvarez,Car,15,5,Milpitas,Palo Alto,gasoline,21
+Hudson Ha,Bike,5,2,Sunnyvale,Santa Clara,electric,28
+Hannah Brown,Bike,9,3,Santa Clara,Milpitas,electric,22
+Hadley Le,Car,8,4,Redwood City,Palo Alto,gasoline,24
+Jaxson Shah,Car,6,2,Mountain View,Sunnyvale,electric,20
+Christopher Delgado,Car,6,4,Mountain View,Sunnyvale,electric,27
+Hannah Ng,Car,5,4,Sunnyvale,Santa Clara,electric,24
+Austin Ngo,Car,9,5,Santa Clara,Milpitas,gasoline,27
+Gianna Han,Car,22,4,San Jose,Stanford,gasoline,23
+Isaac Choi,Car,4,3,San Jose,San Jose,electric,29
+Madeline Smith,Car,1,2,Milpitas,Milpitas,electric,20
+Ellie Fernandez,Car,13,3,Redwood City,Los Altos,gasoline,21
+Lyla Lai,Car,13,5,Redwood City,Los Altos,gasoline,23
+Emily Moore,Car,19,4,Palo Alto,San Francisco,gasoline,21
+Aubrey Moreno,Car,19,5,Palo Alto,San Francisco,gasoline,22
+Nova Xiong,Bike,24,2,Livermore,Milpitas,gasoline,23
+Eva Lam,Car,21,4,Campbell,Palo Alto,electric,30
+Caroline Chau,Bike,5,5,Sunnyvale,Santa Clara,gasoline,23
+Sofia Chen,Car,6,4,Mountain View,Sunnyvale,gasoline,26
+Christopher Sharma,Car,11,3,San Carlos,Palo Alto,electric,23
+Lucas Grant,Car,4,3,San Jose,San Jose,electric,26
+Delilah Washington,Car,4,1,San Jose,San Jose,gasoline,26
+Eloise Molina,Car,15,3,Milpitas,Palo Alto,electric,28
+Clara Desai,Car,9,5,Santa Clara,Milpitas,gasoline,24
+Audrey Campbell,Bike,17,4,Mountain House,Livermore,gasoline,21
+Delilah Alvarez,Car,5,1,Sunnyvale,Santa Clara,gasoline,26
+Luke Luna,Bike,13,3,Redwood City,Los Altos,gasoline,21
+Elizabeth Tan,Car,11,5,San Carlos,Palo Alto,electric,25
+Sophia Wang,Car,18,5,San Carlos,Sunnyvale,gasoline,25
+Nova Park,Car,19,5,Palo Alto,San Francisco,electric,24
+Josiah Khan,Car,4,1,San Jose,San Jose,gasoline,23
+Madison Gray,Car,24,3,Livermore,Milpitas,electric,28
+Luca Washington,Bike,21,2,Campbell,Palo Alto,electric,27
+Isaac Cruz,Car,2,4,North San Jose,Milpitas,gasoline,23
+Ellie Ortega,Bike,6,2,Mountain View,Sunnyvale,gasoline,24
+Ian Huang,Car,20,1,Campbell,Fremont,electric,28
+Jayden Ahmed,Car,14,5,Palo Alto,Santa Clara,gasoline,30
+Violet Simmons,Car,7,4,Santa Clara,San Jose,electric,25
+William Roberts,Car,9,3,Santa Clara,Milpitas,electric,24
+Penelope Sandoval,Car,4,5,San Jose,San Jose,electric,27
+Emilia Ortiz,Car,22,5,San Jose,Stanford,electric,27
+Layla Gutierrez,Car,3,3,Santa Clara,Santa Clara,gasoline,26
+Dylan Vu,Car,5,3,Sunnyvale,Santa Clara,gasoline,30
+Peyton Wong,Car,2,5,North San Jose,Milpitas,electric,30
+Santiago f Banks,Car,2,5,North San Jose,Milpitas,electric,27
+Caroline Wong,Car,9,2,Santa Clara,Milpitas,gasoline,27
+Quinn Ho,Car,15,3,Milpitas,Palo Alto,gasoline,23
+Caroline Nunez,Car,10,2,Mountain View,Santa Clara,electric,30
+Carson Brown,Car,2,5,North San Jose,Milpitas,electric,29
+Olivia Maldonado,Car,18,2,San Carlos,Sunnyvale,gasoline,20
+Emilia Chung,Bike,25,4,Sunnyvale,San Francisco,gasoline,23
+Leilani Shin,Bike,20,5,Campbell,Fremont,gasoline,21
+Abigail Zhu,Bike,25,3,Sunnyvale,San Francisco,gasoline,26
+Autumn Xiong,Car,7,2,Santa Clara,San Jose,electric,30
+Hailey Cruz,Bike,2,1,North San Jose,Milpitas,gasoline,24
+Piper Cruz,Bike,1,2,Milpitas,Milpitas,gasoline,23
+Jaxson Jackson,Car,12,2,Mountain View,Milpitas,electric,23
+Serenity Mehta,Car,13,3,Redwood City,Los Altos,electric,20
+Peyton Gomez,Car,22,3,San Jose,Stanford,electric,23
+Ethan Vargas,Car,12,5,Mountain View,Milpitas,electric,27
+Serenity Morris,Car,22,5,San Jose,Stanford,gasoline,22
+Vivian Chan,Bike,11,3,San Carlos,Palo Alto,electric,30
+Lincoln Singh,Car,15,1,Milpitas,Palo Alto,gasoline,30
+Ayla Lim,Car,11,5,San Carlos,Palo Alto,electric,23
+Leilani Hong,Car,5,4,Sunnyvale,Santa Clara,gasoline,25
+Victoria Doan,Car,3,2,Santa Clara,Santa Clara,electric,25
+Naomi Wright,Car,20,5,Campbell,Fremont,electric,28
+Scarlett Howard,Car,4,2,San Jose,San Jose,electric,24
+Victoria Vo,Bike,24,3,Livermore,Milpitas,gasoline,29
+Oliver Fernandez,Car,23,2,San Jose,Union City,gasoline,30
+Luca Jiang,Car,21,4,Campbell,Palo Alto,electric,27
+Charlotte Owens,Car,21,5,Campbell,Palo Alto,electric,30
+Stella Tan,Car,24,3,Livermore,Milpitas,gasoline,27
+Ellie Yoon,Car,24,1,Livermore,Milpitas,electric,29
+Ella Do,Car,19,5,Palo Alto,San Francisco,electric,27
+Lucas Cruz,Car,17,2,Mountain House,Livermore,electric,26
+Sarah Mehta,Car,24,1,Livermore,Milpitas,gasoline,26
+Anthony Phan,Car,14,5,Palo Alto,Santa Clara,electric,29
+David Chu,Car,6,1,Mountain View,Sunnyvale,gasoline,20
+Sebastian Sanders,Bike,21,2,Campbell,Palo Alto,gasoline,24
+Jayden Phillips,Car,5,5,Sunnyvale,Santa Clara,gasoline,26
+Caleb Chan,Car,9,4,Santa Clara,Milpitas,electric,22
+Ariana Santiago,Car,25,2,Sunnyvale,San Francisco,electric,25
+Quinn Owens,Car,12,2,Mountain View,Milpitas,gasoline,28
+Eli James,Car,6,1,Mountain View,Sunnyvale,electric,26
+Ezra Aguilar,Bike,15,5,Milpitas,Palo Alto,electric,30
+Anna Castro,Car,22,4,San Jose,Stanford,gasoline,29
+Liliana Lewis,Bike,5,5,Sunnyvale,Santa Clara,gasoline,23
+Maverick Alvarado,Car,4,5,San Jose,San Jose,electric,23
+Nora Butler,Car,25,4,Sunnyvale,San Francisco,electric,22
+Landon Rodriguez,Car,24,5,Livermore,Milpitas,gasoline,28
+Grace Harris,Car,2,4,North San Jose,Milpitas,gasoline,27
+Jeremiah Medina,Car,20,2,Campbell,Fremont,gasoline,22
+Charles Bryant,Car,21,3,Campbell,Palo Alto,electric,27
+Elizabeth Dixon,Car,8,1,Redwood City,Palo Alto,electric,29
+Riley Phillips,Car,21,1,Campbell,Palo Alto,electric,24
+Gianna Cruz,Bike,25,5,Sunnyvale,San Francisco,gasoline,28
+Lincoln Cruz,Car,7,3,Santa Clara,San Jose,gasoline,27
+Ezekiel Contreras,Car,21,2,Campbell,Palo Alto,gasoline,26
+Amelia Do,Car,14,4,Palo Alto,Santa Clara,gasoline,27
+Anthony Perez,Car,23,1,San Jose,Union City,electric,25
+Elias Maldonado,Car,17,2,Mountain House,Livermore,electric,30
+Liam Luong,Car,2,5,North San Jose,Milpitas,electric,24
+Jordan Ford,Car,22,4,San Jose,Stanford,gasoline,24
+Mateo Chung,Car,8,4,Redwood City,Palo Alto,gasoline,28
+Jameson Vang,Car,19,3,Palo Alto,San Francisco,gasoline,25
+Samuel Thomas,Car,4,1,San Jose,San Jose,gasoline,23
+Gabriel Rodriguez,Car,22,1,San Jose,Stanford,electric,26
+Wyatt Robinson,Car,7,4,Santa Clara,San Jose,gasoline,24
+Anna Huynh,Car,2,5,North San Jose,Milpitas,gasoline,29
+Lucy Simmons,Car,3,3,Santa Clara,Santa Clara,gasoline,24
+Austin Ng,Car,1,2,Milpitas,Milpitas,gasoline,23
+Madeline Cruz,Car,7,3,Santa Clara,San Jose,electric,21
+Layla Munoz,Car,21,3,Campbell,Palo Alto,electric,22
+Alexander Tang,Car,16,3,Redwood City,San Francisco,electric,27
+Carson Chen,Car,23,1,San Jose,Union City,electric,26
+Kai Duong,Bike,17,1,Mountain House,Livermore,electric,24
+Ayla Cooper,Car,14,4,Palo Alto,Santa Clara,gasoline,27
+Eliza Espinoza,Car,16,3,Redwood City,San Francisco,electric,20
+Axel King,Car,9,4,Santa Clara,Milpitas,gasoline,20
+Alexander Carter,Car,9,2,Santa Clara,Milpitas,gasoline,20
+Robert Rogers,Car,16,2,Redwood City,San Francisco,electric,20
+Anthony Gupta,Bike,9,1,Santa Clara,Milpitas,electric,20
+Jackson Gupta,Bike,4,3,San Jose,San Jose,electric,29
+Sophia Rodriguez,Car,7,3,Santa Clara,San Jose,electric,30
+Cora Patel,Car,11,3,San Carlos,Palo Alto,electric,26
+Piper Hsu,Car,14,3,Palo Alto,Santa Clara,gasoline,21
+Hunter Marquez,Car,2,2,North San Jose,Milpitas,electric,23
+Addison Li,Car,25,4,Sunnyvale,San Francisco,gasoline,22
+Carson Hoang,Car,18,4,San Carlos,Sunnyvale,electric,30
+Julian Fernandez,Car,24,5,Livermore,Milpitas,gasoline,24
+Caleb Rojas,Car,17,3,Mountain House,Livermore,electric,27
+Elizabeth Griffin,Car,23,5,San Jose,Union City,electric,22
+Nolan Han,Car,10,5,Mountain View,Santa Clara,gasoline,23
+Cameron Romero,Car,1,2,Milpitas,Milpitas,gasoline,29
+Angel Patterson,Car,21,2,Campbell,Palo Alto,electric,23
+Ryan Foster,Bike,6,5,Mountain View,Sunnyvale,electric,24
+Leonardo Patterson,Bike,16,1,Redwood City,San Francisco,gasoline,20
+William Song,Car,8,4,Redwood City,Palo Alto,electric,25
+Axel Aguilar,Car,4,2,San Jose,San Jose,electric,27
+Liam Valdez,Car,20,3,Campbell,Fremont,electric,20
+Hudson Washington,Car,16,1,Redwood City,San Francisco,electric,26
+Owen Han,Bike,13,5,Redwood City,Los Altos,electric,30
+Harper Washington,Car,14,3,Palo Alto,Santa Clara,electric,21
+Brooklyn Parker,Car,2,4,North San Jose,Milpitas,gasoline,22
+Hudson Oh,Car,22,3,San Jose,Stanford,gasoline,25
+Maverick Howard,Car,9,5,Santa Clara,Milpitas,gasoline,22
+Alexander Dominguez,Car,9,3,Santa Clara,Milpitas,gasoline,27
+Jack Garcia,Car,4,5,San Jose,San Jose,electric,30
+Aiden Hu,Car,8,2,Redwood City,Palo Alto,gasoline,21
+Cora Espinoza,Car,20,3,Campbell,Fremont,electric,28
+Naomi Moua,Car,6,2,Mountain View,Sunnyvale,electric,22
+Liam Baker,Bike,15,4,Milpitas,Palo Alto,gasoline,24
+Christian Liu,Car,15,5,Milpitas,Palo Alto,electric,20
+Aaron Munoz,Car,8,2,Redwood City,Palo Alto,electric,27
+Levi Kang,Bike,1,1,Milpitas,Milpitas,electric,24
+Isaac Foster,Bike,6,1,Mountain View,Sunnyvale,gasoline,27
+Samantha Zhu,Car,12,4,Mountain View,Milpitas,gasoline,23
+Vivian Watson,Car,18,3,San Carlos,Sunnyvale,electric,29
+Emery Hernandez,Car,20,1,Campbell,Fremont,electric,20
+Camila Baker,Car,16,3,Redwood City,San Francisco,gasoline,21
+David Bryant,Car,8,2,Redwood City,Palo Alto,gasoline,23
+Miles Perez,Car,17,1,Mountain House,Livermore,gasoline,21
+Elijah Hill,Bike,17,2,Mountain House,Livermore,gasoline,22
+Sofia Shin,Bike,10,4,Mountain View,Santa Clara,gasoline,23
+Ezekiel Lee,Car,20,5,Campbell,Fremont,electric,30
+Nevaeh Truong,Car,13,4,Redwood City,Los Altos,gasoline,23
+Leah Ali,Car,17,1,Mountain House,Livermore,gasoline,26
+Emma Soto,Car,7,3,Santa Clara,San Jose,electric,23
+Lydia Marquez,Bike,5,1,Sunnyvale,Santa Clara,electric,26
+Cora Munoz,Car,7,5,Santa Clara,San Jose,gasoline,26
+Hudson Ross,Car,23,3,San Jose,Union City,electric,28
+Aiden Cheng,Car,6,2,Mountain View,Sunnyvale,gasoline,24
+Willow Vang,Bike,17,2,Mountain House,Livermore,gasoline,21
+Jonathan Young,Car,18,5,San Carlos,Sunnyvale,gasoline,26
+Isaac Rojas,Bike,20,3,Campbell,Fremont,gasoline,21
+Dylan Guzman,Car,15,4,Milpitas,Palo Alto,electric,25
+Sarah Shin,Car,16,5,Redwood City,San Francisco,gasoline,25
+Michael Johnson,Car,20,1,Campbell,Fremont,electric,24
+Riley Vega,Car,25,3,Sunnyvale,San Francisco,gasoline,23
+Benjamin Ali,Bike,3,3,Santa Clara,Santa Clara,electric,28
+Ezekiel Cooper,Car,5,5,Sunnyvale,Santa Clara,electric,27
+Lyla Walker,Car,2,3,North San Jose,Milpitas,gasoline,23
+Aria Cheng,Bike,3,3,Santa Clara,Santa Clara,gasoline,24
+Christopher Ramirez,Car,10,2,Mountain View,Santa Clara,electric,28
+Emily Roberts,Car,19,1,Palo Alto,San Francisco,gasoline,30
+Nathan Parker,Car,5,2,Sunnyvale,Santa Clara,electric,25
+Nora Her,Car,11,1,San Carlos,Palo Alto,electric,24
+Mia Brown,Car,10,5,Mountain View,Santa Clara,electric,27
+Hunter Hu,Bike,16,4,Redwood City,San Francisco,electric,27
+Luke Acosta,Car,11,5,San Carlos,Palo Alto,gasoline,26
+Sophia Griffin,Car,22,4,San Jose,Stanford,gasoline,30
+Anthony Chu,Car,16,1,Redwood City,San Francisco,electric,30
+Landon Ha,Car,6,2,Mountain View,Sunnyvale,electric,27
+Layla Kang,Car,18,2,San Carlos,Sunnyvale,gasoline,27
+Cora Xu,Car,4,2,San Jose,San Jose,gasoline,23
+Rylee Campos,Car,5,1,Sunnyvale,Santa Clara,electric,30
+Amelia Foster,Car,7,4,Santa Clara,San Jose,electric,29
+Hadley Rios,Bike,17,5,Mountain House,Livermore,gasoline,20
+Luna Chang,Bike,6,2,Mountain View,Sunnyvale,gasoline,23
+Mia Navarro,Car,5,2,Sunnyvale,Santa Clara,gasoline,21
+Nova Rios,Car,3,2,Santa Clara,Santa Clara,gasoline,26
+Theodore Truong,Bike,5,5,Sunnyvale,Santa Clara,electric,30
+Asher Ly,Car,14,2,Palo Alto,Santa Clara,gasoline,24
+Madeline Doan,Car,15,5,Milpitas,Palo Alto,gasoline,23
+Scarlett Rodriguez,Bike,25,4,Sunnyvale,San Francisco,electric,23
+Zoey Lu,Car,25,2,Sunnyvale,San Francisco,electric,20
+Mila Cheung,Car,21,3,Campbell,Palo Alto,electric,23
+Lucy Mai,Car,19,4,Palo Alto,San Francisco,electric,27
+Benjamin Luu,Bike,16,1,Redwood City,San Francisco,gasoline,22
+Mia Navarro,Bike,9,3,Santa Clara,Milpitas,electric,30
+Maya Watson,Bike,3,4,Santa Clara,Santa Clara,gasoline,30
+Jack Adams,Car,20,4,Campbell,Fremont,electric,23
+Gabriella Jordan,Car,11,2,San Carlos,Palo Alto,gasoline,25
+Jonathan Torres,Car,8,2,Redwood City,Palo Alto,electric,25
+Samuel Xu,Car,17,2,Mountain House,Livermore,electric,28
+Ezekiel Lai,Car,11,5,San Carlos,Palo Alto,electric,24
+Levi Rahman,Car,19,3,Palo Alto,San Francisco,gasoline,29
+Madison Phan,Bike,19,5,Palo Alto,San Francisco,gasoline,30
+Andrew Pham,Car,20,4,Campbell,Fremont,electric,27
+Clara Ford,Car,9,2,Santa Clara,Milpitas,electric,30
+Christopher Chau,Car,3,1,Santa Clara,Santa Clara,gasoline,27
+Madeline Guerrero,Car,20,1,Campbell,Fremont,electric,29
+Harper Yee,Car,10,5,Mountain View,Santa Clara,electric,27
+Mia Thomas,Car,22,1,San Jose,Stanford,electric,26
+Owen Nelson,Car,1,3,Milpitas,Milpitas,gasoline,26
+Aiden Evans,Car,13,5,Redwood City,Los Altos,electric,29
+Josiah Lai,Car,9,1,Santa Clara,Milpitas,gasoline,20
+Jameson Yee,Car,5,5,Sunnyvale,Santa Clara,gasoline,24
+Serenity Her,Car,14,4,Palo Alto,Santa Clara,gasoline,26
+Ariana Turner,Car,1,4,Milpitas,Milpitas,electric,22
+Jacob Cooper,Car,8,3,Redwood City,Palo Alto,electric,25
+Christopher Dominguez,Car,10,1,Mountain View,Santa Clara,gasoline,28
+Nevaeh Lim,Car,10,4,Mountain View,Santa Clara,electric,26
+Dominic Cheng,Car,6,1,Mountain View,Sunnyvale,electric,30
+Serenity Rodriguez,Car,21,1,Campbell,Palo Alto,gasoline,29
+Caleb Thompson,Bike,22,2,San Jose,Stanford,gasoline,23
+Luke Avila,Car,20,3,Campbell,Fremont,electric,23
+Sadie Chin,Car,3,5,Santa Clara,Santa Clara,electric,22
+Everett Le,Bike,10,4,Mountain View,Santa Clara,gasoline,28
+Carson Santos,Car,7,2,Santa Clara,San Jose,gasoline,27
+Natalie Ho,Car,18,1,San Carlos,Sunnyvale,gasoline,22
+Natalia Hall,Bike,20,4,Campbell,Fremont,electric,27
+Zoey Ahmed,Bike,11,4,San Carlos,Palo Alto,electric,29
+Santiago f Turner,Bike,25,5,Sunnyvale,San Francisco,electric,24
+Jacob Alexander,Car,11,2,San Carlos,Palo Alto,gasoline,28
+Christopher Aguilar,Car,12,5,Mountain View,Milpitas,gasoline,27
+Vivian Jackson,Car,25,5,Sunnyvale,San Francisco,gasoline,26
+Leonardo Jenkins,Bike,24,2,Livermore,Milpitas,gasoline,27
+Oliver Hunter,Car,23,3,San Jose,Union City,electric,25
+Ayla Brooks,Car,7,4,Santa Clara,San Jose,electric,30
+Willow Chau,Bike,15,4,Milpitas,Palo Alto,electric,24
+Kai Shin,Car,21,3,Campbell,Palo Alto,gasoline,24
+Liliana Zhao,Car,12,1,Mountain View,Milpitas,gasoline,28
+Aiden Carter,Car,23,5,San Jose,Union City,gasoline,25
+Christopher Song,Bike,11,1,San Carlos,Palo Alto,gasoline,23
+Charles Luu,Bike,6,2,Mountain View,Sunnyvale,electric,26
+Kayden Dinh,Car,17,5,Mountain House,Livermore,gasoline,24
+Valentina Zhang,Car,7,4,Santa Clara,San Jose,gasoline,29
+Alexander Perez,Car,22,2,San Jose,Stanford,gasoline,24
+Everleigh Kumar,Car,25,1,Sunnyvale,San Francisco,gasoline,23
+Santiago f Xiong,Car,4,5,San Jose,San Jose,electric,21
+Elizabeth Powell,Car,12,2,Mountain View,Milpitas,electric,22
+Lucas Yang,Car,11,3,San Carlos,Palo Alto,electric,27
+John Richardson,Bike,14,2,Palo Alto,Santa Clara,electric,26
+Miles Ross,Car,10,4,Mountain View,Santa Clara,electric,24
+Jonathan Santos,Bike,4,2,San Jose,San Jose,gasoline,27
+Joshua Maldonado,Car,12,4,Mountain View,Milpitas,electric,20
+Santiago f Vo,Bike,23,5,San Jose,Union City,gasoline,20
+Leilani Martin,Car,23,1,San Jose,Union City,gasoline,20
+Luca Xiong,Bike,1,1,Milpitas,Milpitas,electric,20
+Valentina Campos,Car,21,5,Campbell,Palo Alto,electric,20
+Grayson Jenkins,Car,24,1,Livermore,Milpitas,electric,29
+Jeremiah Ross,Bike,7,2,Santa Clara,San Jose,electric,30
+Natalie Zheng,Car,9,1,Santa Clara,Milpitas,electric,26
+Jace Mehta,Car,23,5,San Jose,Union City,gasoline,21
+Hannah Doan,Car,6,2,Mountain View,Sunnyvale,electric,23
+Caroline Robinson,Car,24,5,Livermore,Milpitas,gasoline,22
+Naomi Ma,Car,20,1,Campbell,Fremont,electric,30
+Adam Davis,Car,13,5,Redwood City,Los Altos,gasoline,24
+Ellie Ho,Car,19,4,Palo Alto,San Francisco,electric,27
+Mila Liang,Car,17,5,Mountain House,Livermore,electric,22
+Nova Doan,Bike,6,2,Mountain View,Sunnyvale,gasoline,23
+Colton Mejia,Car,7,4,Santa Clara,San Jose,gasoline,29
+Joseph Kim,Car,7,3,Santa Clara,San Jose,electric,23
+Audrey Campos,Bike,6,1,Mountain View,Sunnyvale,electric,24
+Vivian Brooks,Car,20,2,Campbell,Fremont,gasoline,20
+Mateo Vargas,Car,11,3,San Carlos,Palo Alto,electric,25
+David Foster,Car,4,5,San Jose,San Jose,electric,27
+Isaiah Ramos,Bike,23,5,San Jose,Union City,electric,20
+Samantha Do,Car,17,4,Mountain House,Livermore,electric,26
+Emery Fernandez,Car,13,1,Redwood City,Los Altos,electric,30
+Santiago f Brooks,Car,4,1,San Jose,San Jose,electric,21
+Aubrey Lin,Car,19,2,Palo Alto,San Francisco,gasoline,22
+Jace Hsu,Bike,18,2,San Carlos,Sunnyvale,gasoline,25
+Nicholas Sanders,Car,12,3,Mountain View,Milpitas,gasoline,22
+Joshua Sun,Car,13,2,Redwood City,Los Altos,gasoline,27
+Riley Ayala,Bike,6,5,Mountain View,Sunnyvale,electric,30
+Isaac Santos,Car,23,3,San Jose,Union City,gasoline,21
+Logan Brooks,Bike,4,5,San Jose,San Jose,electric,28
+Leilani Hu,Bike,17,4,Mountain House,Livermore,electric,22
+Jace Cho,Car,10,2,Mountain View,Santa Clara,gasoline,24
+Jaxson Fong,Car,20,2,Campbell,Fremont,electric,20
+Wyatt Ly,Car,15,4,Milpitas,Palo Alto,electric,27
+Mia Huang,Car,24,2,Livermore,Milpitas,electric,24
+Levi Her,Car,22,5,San Jose,Stanford,gasoline,27
+Everleigh Phillips,Car,18,4,San Carlos,Sunnyvale,gasoline,23
+Natalie Acosta,Bike,15,2,Milpitas,Palo Alto,electric,29
+Hadley Chavez,Car,18,3,San Carlos,Sunnyvale,electric,20
+Hailey Liu,Car,17,2,Mountain House,Livermore,gasoline,21
+Nicholas Jiang,Car,6,2,Mountain View,Sunnyvale,gasoline,23
+Gabriel Xu,Bike,21,5,Campbell,Palo Alto,gasoline,21
+Sophia Collins,Bike,25,2,Sunnyvale,San Francisco,gasoline,22
+Evelyn Vasquez,Car,5,1,Sunnyvale,Santa Clara,gasoline,23
+Paisley Baker,Car,19,2,Palo Alto,San Francisco,electric,30
+Eloise Griffin,Car,5,4,Sunnyvale,Santa Clara,gasoline,23
+Samuel Cruz,Car,13,3,Redwood City,Los Altos,gasoline,26
+Gabriel Cheung,Car,10,4,Mountain View,Santa Clara,electric,23
+Kai Green,Car,7,2,Santa Clara,San Jose,electric,26
+Julia Moore,Car,21,5,Campbell,Palo Alto,gasoline,26
+Roman Mendoza,Car,2,1,North San Jose,Milpitas,electric,28
+Levi Rahman,Car,3,3,Santa Clara,Santa Clara,gasoline,24
+Sadie Pham,Car,14,5,Palo Alto,Santa Clara,gasoline,21
+Chloe Contreras,Car,4,3,San Jose,San Jose,gasoline,26
+Owen Ford,Car,12,4,Mountain View,Milpitas,gasoline,21
+Audrey Powell,Bike,21,3,Campbell,Palo Alto,electric,25
+Greyson Munoz,Car,18,3,San Carlos,Sunnyvale,gasoline,25
+Isaiah Vang,Car,2,4,North San Jose,Milpitas,electric,24
+Lincoln Alvarado,Car,9,5,Santa Clara,Milpitas,gasoline,23
+Carter Sandoval,Car,20,1,Campbell,Fremont,electric,28
+Julia Jimenez,Car,15,2,Milpitas,Palo Alto,electric,27
+Savannah Cortez,Car,8,5,Redwood City,Palo Alto,gasoline,23
+Everly Brown,Car,10,4,Mountain View,Santa Clara,gasoline,24
+Charlotte Pham,Car,6,5,Mountain View,Sunnyvale,electric,28
+Iris Bailey,Bike,16,2,Redwood City,San Francisco,gasoline,30
+Logan Daniels,Car,23,1,San Jose,Union City,electric,25
+Autumn Molina,Bike,17,3,Mountain House,Livermore,electric,24
+Emma Mehta,Car,3,1,Santa Clara,Santa Clara,electric,27
+Julian Joseph,Car,16,5,Redwood City,San Francisco,electric,27
+Eleanor Munoz,Bike,20,5,Campbell,Fremont,gasoline,26
+Caroline Sandoval,Bike,24,5,Livermore,Milpitas,gasoline,30
+Eliza Zhu,Car,4,1,San Jose,San Jose,electric,30
+Greyson Moore,Car,8,3,Redwood City,Palo Alto,electric,27
+Lyla Clark,Bike,3,5,Santa Clara,Santa Clara,gasoline,27
+Samuel Patterson,Car,14,1,Palo Alto,Santa Clara,gasoline,23
+Robert Padilla,Car,5,2,Sunnyvale,Santa Clara,electric,30
+Landon Munoz,Bike,1,2,Milpitas,Milpitas,electric,29
+Josiah Yi,Car,17,4,Mountain House,Livermore,gasoline,20
+Owen Scott,Car,23,5,San Jose,Union City,gasoline,23
+Matthew Parker,Car,9,4,Santa Clara,Milpitas,gasoline,21
+Daniel Huynh,Car,11,1,San Carlos,Palo Alto,gasoline,26
+Matthew Vargas,Car,15,5,Milpitas,Palo Alto,electric,30
+Ella Herrera,Car,8,1,Redwood City,Palo Alto,gasoline,24
+Everly Hwang,Bike,1,4,Milpitas,Milpitas,gasoline,23
+Hazel Mitchell,Car,9,5,Santa Clara,Milpitas,electric,23
+Ian Hernandez,Car,3,3,Santa Clara,Santa Clara,electric,20
+Charlotte Lam,Car,16,4,Redwood City,San Francisco,electric,23
+Jonathan Ali,Car,18,3,San Carlos,Sunnyvale,electric,27
+Violet He,Car,21,2,Campbell,Palo Alto,gasoline,22
+Hannah Truong,Car,13,4,Redwood City,Los Altos,electric,30
+Hannah Nelson,Bike,19,5,Palo Alto,San Francisco,gasoline,30
+Autumn Kaur,Bike,12,4,Mountain View,Milpitas,electric,23
+Serenity Ngo,Car,10,2,Mountain View,Santa Clara,gasoline,25
+Raelynn Her,Bike,25,3,Sunnyvale,San Francisco,electric,25
+Jameson Salazar,Bike,17,2,Mountain House,Livermore,electric,28
+Luke Luna,Car,9,5,Santa Clara,Milpitas,electric,24
+Hunter Moua,Bike,14,5,Palo Alto,Santa Clara,gasoline,29
+Athena Aguilar,Bike,16,2,Redwood City,San Francisco,gasoline,30
+Ariana Sanders,Car,16,5,Redwood City,San Francisco,electric,27
+Easton Cruz,Car,14,1,Palo Alto,Santa Clara,electric,30
+Josiah Vega,Bike,17,4,Mountain House,Livermore,gasoline,27
+Isla Chavez,Car,13,3,Redwood City,Los Altos,electric,29
+Willow Estrada,Bike,12,1,Mountain View,Milpitas,electric,27
+Nevaeh Ng,Car,19,4,Palo Alto,San Francisco,electric,26
+Jade Hu,Car,4,3,San Jose,San Jose,gasoline,26
+Henry Vazquez,Car,8,4,Redwood City,Palo Alto,electric,29
+Nathan Jackson,Car,11,4,San Carlos,Palo Alto,gasoline,20
+Anthony Lam,Car,1,2,Milpitas,Milpitas,gasoline,24
+Nevaeh Ali,Car,8,5,Redwood City,Palo Alto,gasoline,26
+Mila Vasquez,Car,21,1,Campbell,Palo Alto,electric,22
+Madelyn Henry,Car,16,5,Redwood City,San Francisco,electric,25
+Emilia Alexander,Car,3,5,Santa Clara,Santa Clara,gasoline,28
+Christian Ayala,Bike,25,2,Sunnyvale,San Francisco,electric,26
+Willow Xiong,Bike,13,5,Redwood City,Los Altos,electric,30
+Avery Valdez,Car,2,1,North San Jose,Milpitas,gasoline,29
+Abigail Carter,Car,1,2,Milpitas,Milpitas,gasoline,23
+Madison Patel,Car,22,4,San Jose,Stanford,electric,23
+Paisley Hsu,Car,20,1,Campbell,Fremont,electric,22
+Kinsley Hill,Car,24,3,Livermore,Milpitas,gasoline,28
+Kai Barnes,Bike,15,4,Milpitas,Palo Alto,gasoline,27
+Lincoln Cheng,Bike,16,1,Redwood City,San Francisco,gasoline,22
+Noah Sharma,Car,21,5,Campbell,Palo Alto,electric,27
+Nevaeh Jiang,Car,20,1,Campbell,Fremont,electric,29
+Ariana Hall,Bike,10,1,Mountain View,Santa Clara,electric,24
+Samuel Cao,Car,5,3,Sunnyvale,Santa Clara,gasoline,28
+Brooks Mitchell,Car,24,5,Livermore,Milpitas,gasoline,27
+Kinsley Gonzalez,Car,20,3,Campbell,Fremont,gasoline,26
+Dominic Tang,Car,20,5,Campbell,Fremont,gasoline,27
+Colton Le,Car,19,4,Palo Alto,San Francisco,electric,25
+Kai Huang,Car,13,4,Redwood City,Los Altos,electric,30
+Addison Cruz,Bike,13,5,Redwood City,Los Altos,electric,24
+Natalie Thao,Car,23,5,San Jose,Union City,gasoline,24
+Maria Barnes,Bike,25,1,Sunnyvale,San Francisco,gasoline,28
+Everett Le,Car,6,5,Mountain View,Sunnyvale,gasoline,25
+Mia Vang,Car,18,1,San Carlos,Sunnyvale,gasoline,23
+Zoey Mendoza,Car,24,1,Livermore,Milpitas,electric,26
+Parker Desai,Car,13,5,Redwood City,Los Altos,gasoline,24
+Alexander Liang,Car,3,3,Santa Clara,Santa Clara,gasoline,29
+Adam Jordan,Bike,15,1,Milpitas,Palo Alto,gasoline,24
+Leah Stewart,Car,4,4,San Jose,San Jose,gasoline,23
+Robert Santos,Bike,11,3,San Carlos,Palo Alto,electric,21
+Addison Ma,Bike,1,2,Milpitas,Milpitas,electric,22
+Clara Collins,Bike,2,4,North San Jose,Milpitas,electric,27
+Stella Castro,Car,14,1,Palo Alto,Santa Clara,electric,26
+Lucy Chin,Car,7,3,Santa Clara,San Jose,electric,24
+Piper Evans,Car,8,3,Redwood City,Palo Alto,gasoline,27
+Cora Coleman,Car,19,4,Palo Alto,San Francisco,electric,20
+Cora Holmes,Car,14,3,Palo Alto,Santa Clara,gasoline,20
+Leo Figueroa,Bike,11,4,San Carlos,Palo Alto,gasoline,20
+Allison Wang,Car,11,4,San Carlos,Palo Alto,electric,20
+Levi Cruz,Car,15,1,Milpitas,Palo Alto,electric,20
+Iris Phillips,Car,5,4,Sunnyvale,Santa Clara,electric,29
+Madelyn Chavez,Car,12,2,Mountain View,Milpitas,electric,30
+Caroline Smith,Car,4,1,San Jose,San Jose,electric,26
+Grayson Lai,Car,16,3,Redwood City,San Francisco,gasoline,21
+Anna Guerrero,Car,4,5,San Jose,San Jose,electric,23
+Paisley Bell,Car,3,1,Santa Clara,Santa Clara,gasoline,22
+Jose Park,Car,22,4,San Jose,Stanford,electric,30
+Eliza Parker,Bike,13,4,Redwood City,Los Altos,gasoline,24
+Harper Castillo,Car,11,5,San Carlos,Palo Alto,electric,27
+Melody Yoon,Car,23,2,San Jose,Union City,electric,22
+Avery Smith,Car,8,2,Redwood City,Palo Alto,gasoline,23
+Madeline Vu,Car,21,1,Campbell,Palo Alto,gasoline,29
+Aubrey Cheng,Car,22,2,San Jose,Stanford,electric,23
+Clara Henderson,Car,16,4,Redwood City,San Francisco,electric,24
+Jace Henderson,Car,17,5,Mountain House,Livermore,gasoline,20
+Caroline Martin,Car,9,4,Santa Clara,Milpitas,electric,25
+Asher Bui,Car,2,2,North San Jose,Milpitas,electric,27
+Samantha Chau,Car,10,2,Mountain View,Santa Clara,electric,20
+Charles Robinson,Car,18,3,San Carlos,Sunnyvale,electric,26
+Jonathan Nelson,Car,22,2,San Jose,Stanford,electric,30
+Liliana Simmons,Car,12,1,Mountain View,Milpitas,electric,21
+Logan Ortega,Car,19,3,Palo Alto,San Francisco,gasoline,22
+Isaac Jung,Car,1,1,Milpitas,Milpitas,gasoline,25
+Christopher Desai,Car,19,1,Palo Alto,San Francisco,gasoline,22
+Levi Gonzalez,Car,2,3,North San Jose,Milpitas,gasoline,27
+Santiago f Wang,Bike,5,5,Sunnyvale,Santa Clara,electric,30
+Julia Kim,Car,4,4,San Jose,San Jose,gasoline,21
+Noah Allen,Car,13,4,Redwood City,Los Altos,electric,28
+Colton Adams,Car,15,3,Milpitas,Palo Alto,electric,22
+Colton Mehta,Car,7,4,Santa Clara,San Jose,gasoline,24
+Caroline Gomez,Car,3,4,Santa Clara,Santa Clara,electric,20
+Kayden Tang,Car,21,2,Campbell,Palo Alto,electric,27
+Hadley Parker,Car,10,5,Mountain View,Santa Clara,electric,24
+Elizabeth Estrada,Car,24,2,Livermore,Milpitas,gasoline,27
+Sofia Yee,Car,6,2,Mountain View,Sunnyvale,gasoline,23
+Asher Mendoza,Bike,15,1,Milpitas,Palo Alto,electric,29
+Jordan Hernandez,Car,4,3,San Jose,San Jose,electric,20
+Everleigh Tan,Bike,10,1,Mountain View,Santa Clara,gasoline,21
+Joshua Hall,Car,11,3,San Carlos,Palo Alto,gasoline,23
+Stella Gupta,Car,22,3,San Jose,Stanford,gasoline,21
+Levi White,Bike,13,3,Redwood City,Los Altos,gasoline,22
+Matthew Jackson,Car,25,4,Sunnyvale,San Francisco,gasoline,23
+Dominic Martinez,Car,21,2,Campbell,Palo Alto,electric,30
+Aiden Aguilar,Car,10,3,Mountain View,Santa Clara,gasoline,23
+Victoria Hu,Bike,17,1,Mountain House,Livermore,gasoline,26
+Eloise Campos,Car,1,4,Milpitas,Milpitas,electric,23
+Emilia Alvarado,Car,6,5,Mountain View,Sunnyvale,electric,26
+Lydia Ahmed,Car,18,2,San Carlos,Sunnyvale,gasoline,26
+Dylan Simmons,Car,25,5,Sunnyvale,San Francisco,electric,28
+Jaxson Chu,Bike,19,2,Palo Alto,San Francisco,gasoline,24
+Ariana Griffin,Car,6,1,Mountain View,Sunnyvale,gasoline,21
+Hudson Bailey,Car,11,4,San Carlos,Palo Alto,gasoline,26
+Colton Grant,Bike,14,3,Palo Alto,Santa Clara,gasoline,21
+Emery Flores,Car,25,2,Sunnyvale,San Francisco,electric,25
+Gabriella Wong,Car,4,3,San Jose,San Jose,gasoline,25
+Ian Gonzales,Bike,9,1,Santa Clara,Milpitas,electric,24
+Jaxon Wright,Car,15,4,Milpitas,Palo Alto,gasoline,23
+Ethan Cruz,Car,12,3,Mountain View,Milpitas,electric,28
+Adrian James,Car,12,2,Mountain View,Milpitas,electric,27
+Isabella Mejia,Bike,4,5,San Jose,San Jose,gasoline,23
+Christopher Miller,Car,21,2,Campbell,Palo Alto,gasoline,24
+Samuel Watson,Bike,23,1,San Jose,Union City,electric,28
+Lucy Phan,Car,6,2,Mountain View,Sunnyvale,gasoline,30
+Dominic Thao,Car,17,2,Mountain House,Livermore,electric,25
+Jaxon Shin,Car,1,3,Milpitas,Milpitas,electric,24
+Nevaeh Diaz,Car,24,4,Livermore,Milpitas,electric,27
+Isaac Jenkins,Car,10,2,Mountain View,Santa Clara,electric,27
+Jace Barnes,Car,22,1,San Jose,Stanford,gasoline,26
+Carson Liu,Car,24,5,Livermore,Milpitas,gasoline,30
+Sofia Gutierrez,Car,16,2,Redwood City,San Francisco,electric,30
+Jeremiah Chang,Car,14,5,Palo Alto,Santa Clara,electric,27
+Connor Ruiz,Car,11,1,San Carlos,Palo Alto,gasoline,27
+Easton Truong,Car,20,5,Campbell,Fremont,gasoline,23
+Sebastian Vargas,Bike,23,3,San Jose,Union City,electric,30
+Joseph Dang,Bike,12,1,Mountain View,Milpitas,electric,29
+Madison White,Car,12,3,Mountain View,Milpitas,gasoline,20
+Valentina Nelson,Car,5,5,Sunnyvale,Santa Clara,gasoline,23
+Everleigh Coleman,Car,18,5,San Carlos,Sunnyvale,gasoline,21
+Everleigh Castillo,Car,25,2,Sunnyvale,San Francisco,gasoline,26
+Valentina Fernandez,Car,10,2,Mountain View,Santa Clara,electric,30
+Serenity Richardson,Car,5,5,Sunnyvale,Santa Clara,gasoline,24
+Cooper Ramirez,Car,15,5,Milpitas,Palo Alto,gasoline,23
+Penelope Avila,Bike,20,3,Campbell,Fremont,electric,23
+David Barnes,Car,23,5,San Jose,Union City,electric,20
+Ivy Luong,Car,21,3,Campbell,Palo Alto,electric,23
+Aurora Bailey,Car,10,1,Mountain View,Santa Clara,electric,27
+Valentina Valdez,Car,9,3,Santa Clara,Milpitas,gasoline,22
+Parker Dinh,Car,4,3,San Jose,San Jose,electric,30
+Eliana Hsu,Car,23,4,San Jose,Union City,gasoline,30
+Logan Parker,Car,1,1,Milpitas,Milpitas,electric,23
+Liliana Green,Car,9,3,Santa Clara,Milpitas,gasoline,25
+Victoria Vazquez,Bike,23,3,San Jose,Union City,electric,25
+Kinsley Huynh,Car,13,1,Redwood City,Los Altos,electric,28
+Anna Carrillo,Car,25,5,Sunnyvale,San Francisco,electric,24
+Isla Singh,Car,21,3,Campbell,Palo Alto,gasoline,29
+Emma Yu,Car,7,3,Santa Clara,San Jose,gasoline,30
+Jonathan Dominguez,Car,7,5,Santa Clara,San Jose,electric,27
+Caleb Mehta,Car,15,5,Milpitas,Palo Alto,electric,30
+Connor Simmons,Car,24,4,Livermore,Milpitas,gasoline,27
+Jaxon Lai,Car,2,2,North San Jose,Milpitas,electric,29
+Madelyn Yee,Car,9,3,Santa Clara,Milpitas,electric,27
+Elena Jimenez,Car,6,1,Mountain View,Sunnyvale,electric,26
+Sadie Ali,Bike,6,4,Mountain View,Sunnyvale,gasoline,26
+Lucas Sandoval,Car,8,1,Redwood City,Palo Alto,electric,29
+Brooks Ngo,Bike,22,1,San Jose,Stanford,gasoline,20
+Piper Oh,Car,24,3,Livermore,Milpitas,gasoline,24
+Hunter Molina,Car,25,5,Sunnyvale,San Francisco,gasoline,26
+Michael Hoang,Car,24,2,Livermore,Milpitas,electric,22
+Eloise Sun,Bike,22,5,San Jose,Stanford,electric,25
+Gianna Jimenez,Car,25,4,Sunnyvale,San Francisco,gasoline,28
+Ava Chan,Car,7,4,Santa Clara,San Jose,electric,26
+Leilani Navarro,Car,14,4,Palo Alto,Santa Clara,electric,30
+Lydia Chu,Car,25,4,Sunnyvale,San Francisco,gasoline,29
+Liam Salazar,Car,9,2,Santa Clara,Milpitas,gasoline,23
+Hailey Henderson,Bike,8,3,Redwood City,Palo Alto,electric,23
+Austin Espinoza,Car,18,3,San Carlos,Sunnyvale,electric,22
+Delilah Ng,Car,18,4,San Carlos,Sunnyvale,gasoline,28
+Gabriella Han,Bike,3,2,Santa Clara,Santa Clara,gasoline,27
+Aria Miller,Car,13,4,Redwood City,Los Altos,gasoline,22
+Sofia Dixon,Car,4,4,San Jose,San Jose,electric,27
+Ethan Xiong,Bike,17,3,Mountain House,Livermore,electric,29
+Gabriella Cruz,Car,6,2,Mountain View,Sunnyvale,electric,24
+Christopher Kang,Bike,24,4,Livermore,Milpitas,gasoline,28
+Ariana Pham,Bike,23,2,San Jose,Union City,gasoline,27
+Colton Bui,Bike,25,5,Sunnyvale,San Francisco,gasoline,26
+Caroline Cortez,Car,18,5,San Carlos,Sunnyvale,gasoline,27
+Nora Richardson,Car,6,4,Mountain View,Sunnyvale,electric,25
+Alexander Sanchez,Car,24,4,Livermore,Milpitas,electric,30
+Logan Rahman,Car,21,1,Campbell,Palo Alto,electric,24
+Henry Rogers,Bike,15,2,Milpitas,Palo Alto,gasoline,24
+Delilah Cheng,Car,20,1,Campbell,Fremont,gasoline,28
+Caroline Rodriguez,Car,21,1,Campbell,Palo Alto,gasoline,25
